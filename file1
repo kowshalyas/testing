@@ -1,3 +1,3 @@
-It is a file used to test the git pull
-To test the git fetch
-test2
+#!/bin/bash
+sum=`expr 10 + 20`
+echo "sum of two numbers is $sum"
